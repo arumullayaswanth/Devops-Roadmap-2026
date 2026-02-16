@@ -9,6 +9,21 @@ A simplified, step-by-step guide to becoming a DevOps Engineer with curated lear
 **[follow medium](https://medium.com/@yaswanth.arumulla)**
 ---
 
+<!-- YouTube / Social section added -->
+## Use This Repo In Your YouTube Video
+
+If you're creating a video from this roadmap, feel free to use the repository and the resources below. Copy the description template from `youtube_description.md` and the short social post from `social_post.md`.
+
+Quick links:
+
+- **Repo:** https://github.com/arumullayaswanth/Devops-Roadmap-2026
+- **License:** Apache 2.0
+
+---
+
+**Curated courses:** See `resources/courses.md` for a short, categorized list of recommended courses and links to learn-by-doing resources.
+
+
 ## 📋 Table of Contents
 
 1. [Introduction](#introduction)

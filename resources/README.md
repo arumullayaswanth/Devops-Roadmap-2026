@@ -9,6 +9,7 @@ This folder contains additional resources and detailed learning paths for your D
 - **project-ideas.md** - Hands-on project ideas to practice your skills
 - **interview-prep.md** - Common DevOps interview questions and answers
 - **certifications.md** - Guide to popular DevOps certifications
+ - **courses.md** - Curated courses and learning paths
 
 ## 🎯 How to Use These Resources
 
